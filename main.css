@@ -1,15 +1,21 @@
-.center {
+.main {
     display: block;
     margin: 9%;
     margin-left: 39%;
     margin-top: 8%;
-    
     padding: 2%;
-    
-    width: 15%;
-
+    width: 100%;
     top: 50%;
     left: 50%;
     
     
   }
+
+
+  input{
+      width: 60%;
+      margin-left: 25%;
+      margin-top: -500px;
+  }
+
+
