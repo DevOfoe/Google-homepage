@@ -1,21 +1,45 @@
-.main {
+.Google-logo {
+
     display: block;
     margin: 9%;
     margin-left: 39%;
     margin-top: 8%;
     padding: 2%;
-    width: 100%;
+    width: 20%;
     top: 50%;
-    left: 50%;
-    
-    
+    left: 50%;  
+
   }
+  
+body {
 
+      font-family: sans-serif;
 
-  input{
-      width: 60%;
-      margin-left: 25%;
-      margin-top: -500px;
-  }
+      background-color: #f7faf2;
 
-
+      }
+      
+form {
+        width: 400px;
+        margin: auto;
+        margin-top: 250px;
+        
+      }
+      
+input {
+        padding: 4px 10px;
+        border: 0;
+        font-size: 16px;
+       
+      }
+      
+.search {
+        width: 75%;
+        border: black;
+      }
+      
+.submit {
+        width: 70px;
+        background-color: #1c87c9;
+        color: #ffffff;
+      }

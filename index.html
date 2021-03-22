@@ -10,13 +10,14 @@
 </head>
 
 <body>
-    <div class="wrapper">
-        <div class="main">
-            <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google logo">
-        </div>
+    <div>
+      <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google logo" class="Google-logo">
     </div>
-    <form>
-        <input type="text" placeholder="Search" class="search"></input>
+  
+    <form action="/form/submit" method="GET"> 
+      <input type="text" name="text" class="search" placeholder="Search here!">
+      <input type="submit" name="submit" class="submit" value="Search">
     </form>
+         
 </body>
 </html>
