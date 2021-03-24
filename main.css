@@ -9,29 +9,42 @@ body {
 }
 
 .Google-logo {
-    width: 18%;
-    padding-left: 800px;
-    padding-top: 250px;
+    width: 25%;
+    padding-left: 750px;
+    padding-top: 100px;
+}
+
+.Google-search {
+    border: 1px solid rgb(190, 190, 190);
+    height: 80px;
+    width: 50%;
+    border-radius: 50px;
+    margin-left:500px;
+    margin-top: 60px;
+   
 }
 
 form {
-    width: 600px;
+    border-style: none;
+    width: 800px;
     margin: 0px;
-    margin-top: 50px;
-    border-radius: 50%;
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-top: 0px;
+    
+
 }
 
 input {
-    padding: 4px 10px;
+    border-style: none;
+    padding: 2px 10px;
     border: 0;
-    font-size: 16px;
+    font-size: 20px;
+    height: 45px;
+  
 }
 
 .search {
     width: 100%;
-}
-
-.Google-search {
-    width: 32%;
 }
 
