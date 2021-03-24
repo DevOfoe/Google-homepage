@@ -39,11 +39,17 @@ body {
 }
 
 .icons{
-    margin-left:1720px;
+    margin-left:1740px;
     width: 50px;
     max-width: 10px;
     height: 10px;
     background-size: 10%;
+}
+.glass{
+    width: 30px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+    margin-top: 10px;
 }
 
 a{
