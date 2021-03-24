@@ -9,7 +9,28 @@ body {
 }
 
 .Google-logo {
-    size: 80%;
-    padding-left: 350px;
-    padding-top: 120px;
+    width: 18%;
+    padding-left: 800px;
+    padding-top: 250px;
+}
+
+form {
+    width: 600px;
+    margin: 0px;
+    margin-top: 50px;
+    border-radius: 50%;
+}
+
+input {
+    padding: 4px 10px;
+    border: 0;
+    font-size: 16px;
+}
+
+.search {
+    width: 100%;
+}
+
+.Google-search {
+    width: 32%;
 }
